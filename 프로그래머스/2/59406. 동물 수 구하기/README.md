@@ -1,6 +1,6 @@
 # [level 2] 동물 수 구하기 - 59406 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59406?language=oracle) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59406) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2025년 09월 30일 05:56:54
+2025년 09월 30일 06:25:39
 
 ### 문제 설명
 
